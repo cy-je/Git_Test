@@ -9,7 +9,12 @@ public class Main {
         System.out.println("Other User is editing this file");
 
         // Make new Method Here!!
-
+        int n = 0;
+        while (n < 5) {
+            n++;
+            System.out.println(n);
+        }
+        // Finish new Method
 
     }
 }
