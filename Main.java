@@ -7,5 +7,9 @@ public class Main {
         }
 
         System.out.println("Other User is editing this file");
+
+        // Make new Method Here!!
+
+
     }
 }
