@@ -7,5 +7,7 @@ public class Main {
         }
 
         System.out.println("Other User is editing this file");
+
+        System.out.println("This is main");
     }
 }
