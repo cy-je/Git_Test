@@ -14,5 +14,14 @@ public class Main {
             a += i;
         }
         System.out.println(a);
+
+        // Make new Method Here!!
+        int n = 0;
+        while (n < 5) {
+            n++;
+            System.out.println(n);
+        }
+        // Finish new Method
+
     }
 }
