@@ -4,6 +4,11 @@ public class Main {
 
         for (int i = 0; i < 5; i++) {
             System.out.println(i);
+            // fix bug to method
+
+            String s = "abc";
+            s += " fix bug";
+            System.out.println(s);
         }
     }
 }
